@@ -67,3 +67,24 @@ vcpkg_installed/
 # test output & cache
 Testing/
 .cache/
+
+# Visual Studio
+.vs/
+*.slnx
+*.suo
+*.user
+*.sdf
+*.opensdf
+ipch/
+
+# Сборка
+build/
+out/
+*.exe
+*.obj
+*.ilk
+*.pdb
+
+# Результаты (опционально, можно оставить)
+results/
+data/
