@@ -38,4 +38,3 @@ Set-Content -Path "C:\Users\trece\OneDrive\Desktop\pp_2026\README.md" -Value @"
 - `scripts/` — вспомогательные скрипты (генерация данных, построение графиков)
 - `results/` — результаты экспериментов (CSV-таблицы, графики)
 - `reports/` — отчёты по лабораторным работам
-"@
